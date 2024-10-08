@@ -5,15 +5,14 @@ using UnityEngine;
 
 public class CameraMove : MonoBehaviour
 {
-    private int currentCameraIndex = 0;
-    [SerializeField]public Vector3 vector;
+    [SerializeField]private Vector3 vector;
     [SerializeField]private float RotationSpeed;
-    private float xRotation;
     [SerializeField] private float xMin;
     [SerializeField] private float xMax;
     [SerializeField] private float yMin;
     [SerializeField] private float yMax;
     private float yRotation;
+    private float xRotation;
     private void Update()
     {
         float UpDown = Input.GetKey(KeyCode.W) ? 1 : Input.GetKey(KeyCode.S) ? -1 : 0;
