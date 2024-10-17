@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\work\\game\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|d:\\work\\game\\assets\\scrip\\changcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\changcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|d:\\work\\game\\assets\\scrip\\ghostsiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\ghostsiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|d:\\work\\game\\assets\\scrip\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|D:\\work\\game\\assets\\scrip\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\cameramove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|D:\\work\\game\\assets\\scrip\\changecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\changecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|d:\\work\\game\\assets\\scrip\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|D:\\work\\game\\assets\\scrip\\ghostai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AF7E356-2D58-7119-FE6C-C1ED31A62E64}|Assembly-CSharp.csproj|solutionrelative:assets\\scrip\\ghostai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +30,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Changcamera.cs",
-              "DocumentMoniker": "D:\\work\\game\\Assets\\scrip\\ChangCamera.cs",
-              "RelativeDocumentMoniker": "Assets\\scrip\\ChangCamera.cs",
-              "ToolTip": "D:\\work\\game\\Assets\\scrip\\ChangCamera.cs",
-              "RelativeToolTip": "Assets\\scrip\\ChangCamera.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAABEAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "GhostAi.cs",
+              "DocumentMoniker": "D:\\work\\game\\Assets\\scrip\\GhostAi.cs",
+              "RelativeDocumentMoniker": "Assets\\scrip\\GhostAi.cs",
+              "ToolTip": "D:\\work\\game\\Assets\\scrip\\GhostAi.cs",
+              "RelativeToolTip": "Assets\\scrip\\GhostAi.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T15:52:42.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HpBar.cs",
+              "DocumentMoniker": "D:\\work\\game\\Assets\\scrip\\HpBar.cs",
+              "RelativeDocumentMoniker": "Assets\\scrip\\HpBar.cs",
+              "ToolTip": "D:\\work\\game\\Assets\\scrip\\HpBar.cs",
+              "RelativeToolTip": "Assets\\scrip\\HpBar.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:54:23.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeCamera.cs",
+              "DocumentMoniker": "D:\\work\\game\\Assets\\scrip\\ChangeCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\scrip\\ChangeCamera.cs",
+              "ToolTip": "D:\\work\\game\\Assets\\scrip\\ChangeCamera.cs",
+              "RelativeToolTip": "Assets\\scrip\\ChangeCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-08T07:03:43.471Z",
               "EditorCaption": ""
@@ -41,9 +79,22 @@
               "RelativeDocumentMoniker": "Assets\\scrip\\CameraMove.cs",
               "ToolTip": "D:\\work\\game\\Assets\\scrip\\CameraMove.cs",
               "RelativeToolTip": "Assets\\scrip\\CameraMove.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-08T06:38:14.474Z",
+              "WhenOpened": "2024-10-11T16:51:05.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ghostsiri.cs",
+              "DocumentMoniker": "D:\\work\\game\\Assets\\scrip\\Ghostsiri.cs",
+              "RelativeDocumentMoniker": "Assets\\scrip\\Ghostsiri.cs",
+              "ToolTip": "D:\\work\\game\\Assets\\scrip\\Ghostsiri.cs",
+              "RelativeToolTip": "Assets\\scrip\\Ghostsiri.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T16:33:57.295Z",
               "EditorCaption": ""
             }
           ]

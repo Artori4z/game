@@ -60,9 +60,11 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.40f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\scrip\ChangCamera.cs" />
+    <Compile Include="Assets\scrip\GhostAi.cs" />
+    <Compile Include="Assets\scrip\HpBar.cs" />
+    <Compile Include="Assets\scrip\Ghostsiri.cs" />
     <Compile Include="Assets\scrip\CameraMove.cs" />
-    <Compile Include="Assets\scrip\Changcamera.cs" />
+    <Compile Include="Assets\scrip\ChangeCamera.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
